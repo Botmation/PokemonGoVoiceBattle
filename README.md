@@ -4,6 +4,6 @@ See video at https://youtu.be/1WNjNWAiPwk
 Will also need to install a phone mirror app such as apowermirror.
 
 Libraries needed:
-pynput
-speechrecognition
+pynput,
+speechrecognition,
 pyaudio
